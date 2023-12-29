@@ -10,7 +10,7 @@ body{
 .bg{
   height: 100%;
   width: 100%;
-  background:url(img.jpg);
+  background:url(img.webp);
   background-repeat: no-repeat;
   background-position: center;
 }
